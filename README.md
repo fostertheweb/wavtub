@@ -6,4 +6,4 @@
 wavtub https://www.youtube.com/watch?v=jDRTghGZ7XU
 ```
 
-youtube-dl ➡ ffmpeg ➡ 🎵.wav
+`youtube-dl` ➡ `ffmpeg` ➡ `🎵.wav`
