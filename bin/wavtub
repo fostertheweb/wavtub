@@ -1,2 +1,0 @@
-#!/usr/bin/env bash
-docker run --rm -v ${PWD}:/tmp/output fostertheweb/wavtub:latest ${@}
