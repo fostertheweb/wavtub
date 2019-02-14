@@ -1,4 +1,4 @@
-# 🌊📺 wav~~e~~tub~~e~~
+## 🌊📺 wavtub
 
 ### `youtube-dl` ➡ `ffmpeg` ➡ `🎵.wav`
 
