@@ -7,7 +7,7 @@ if [ "$#" -eq  "0" ]; then
   exit 1
 else
   for url in "$@"; do
-    youtube-dl --ffmpeg-location $FFMPEG -o '/tmp/output/%(title)s.%(ext)s' -x --audio-quality 0 --audio-format wav --add-metadata -i url
+    youtube-dl --ffmpeg-location $FFMPEG -o '/tmp/output/%(title)s.%(ext)s' -x --audio-quality 0 --audio-format wav --add-metadata -i $url
   done
   exit 0
 fi

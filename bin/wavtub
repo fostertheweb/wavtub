@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-docker run -v ${PWD}:/tmp/output --rm fostertheweb/wavtub:latest $@
+docker run --rm -v ${PWD}:/tmp/output fostertheweb/wavtub:latest ${@}
