@@ -1,6 +1,6 @@
 ## 🌊📺 wavtub
 
-### `youtube-dl` ➡ `ffmpeg` ➡ `🎵.wav`
+#### `youtube-dl` ➡ `ffmpeg` ➡ `🎵.wav`
 
 Run command with one or more YouTube URLs separated by one space:
 
